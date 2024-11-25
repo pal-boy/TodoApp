@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react"
-import InputBox from "./components/InputBox"
-import TodoList from "./components/TodoList"
 import { Todoprovider } from "./contexts";
 import { TodoForm, TodoItem } from "./components";
 
